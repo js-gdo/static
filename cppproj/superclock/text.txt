@@ -1,4 +1,10 @@
-test1
-test2
-test3
-中文
+#include<bit/stdc++/h> //我不行了
+火钳刘明(bushi)
+最大值硬控15min :(
+lin114514也有自己的超级时钟了！
+查一下FastGithub是何方神圣
+lin114514.top
+好消息:做出蓝题了\n坏消息:拼数
+鲁棒性???
+依旧DFS不写，结构体(排序)不做
+https://luogu.com.cn/team/83068
