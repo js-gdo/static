@@ -1,50 +1,50 @@
-卷 OS 的文件夹 PATH 列表
-卷序列号为 70EC-332E
+Folder PATH listing for volume OS
+Volume serial number is 70EC-332E
 C:.
-│  .gitignore
-│  CNAME
-│  tree.txt
-│  部署.bat
-│  
-├─.idea
-│      .gitignore
-│      editor.xml
-│      encodings.xml
-│      modules.xml
-│      static.lin114514.top.iml
-│      vcs.xml
-│      workspace.xml
-│      
-├─cf-workers
-│  └─broad
-│          text.txt
-│          
-├─cppproj
-│  └─superclock
-│          text.txt
-│          title.txt
-│          
-├─img
-│  └─blog
-│      └─cf-bp-1
-│              add-domain-1.png
-│              add-domain-2.png
-│              add-domain-3.png
-│              cf-ns-ok.png
-│              check-ns.png
-│              dns-server-lookup.png
-│              dnshe-dash-pg.png
-│              dnshe-in-dns-server.png
-│              dnshe-manage-domain.png
-│              dnshe-reg-domain.png
-│              dnshe-reg.png
-│              dnshe-switch-ns.png
-│              domain-choose-plan.png
-│              domain-gogogo.png
-│              in-domain-manpg.jpg
-│              inreg.png
-│              login-page.png
-│              reg-input-data.png
-│              
-└─zkbproj
-    └─StaticData
+│   .gitignore
+│   CNAME
+│   tree.txt
+│   部署.bat
+│   
+├───.idea
+│       .gitignore
+│       editor.xml
+│       encodings.xml
+│       modules.xml
+│       static.lin114514.top.iml
+│       vcs.xml
+│       workspace.xml
+│       
+├───cf-workers
+│   └───broad
+│           text.txt
+│           
+├───cppproj
+│   └───superclock
+│           text.txt
+│           title.txt
+│           
+├───img
+│   └───blog
+│       └───cf-bp-1
+│               add-domain-1.png
+│               add-domain-2.png
+│               add-domain-3.png
+│               cf-ns-ok.png
+│               check-ns.png
+│               dns-server-lookup.png
+│               dnshe-dash-pg.png
+│               dnshe-in-dns-server.png
+│               dnshe-manage-domain.png
+│               dnshe-reg-domain.png
+│               dnshe-reg.png
+│               dnshe-switch-ns.png
+│               domain-choose-plan.png
+│               domain-gogogo.png
+│               in-domain-manpg.jpg
+│               inreg.png
+│               login-page.png
+│               reg-input-data.png
+│               
+└───zkbproj
+    └───StaticData
